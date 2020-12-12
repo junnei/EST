@@ -1,19 +1,31 @@
 # Event Stacking(EST)
 
-Event Stacking : Data Augmentation Techniques for Effective Learning of Event-Based Data (S. Jang)
+<b>Event Stacking : Data Augmentation Techniques for Effective Learning of Event-Based Data (S. Jang)
 
-(이벤트 기반 데이터의 효과적인 학습을 위한 데이터 증강 기법)
+(이벤트 기반 데이터의 효과적인 학습을 위한 데이터 증강 기법)</b>
 
 
 
 # Presentation
 
-경희대학교 소프트웨어 융합학과 졸업논문 발표자료
+<b>경희대학교 소프트웨어 융합학과 졸업논문 발표자료</b>
 
 Presentation of Graduation thesis from Software Convergence, Kyung Hee University
 
-Presentation
-[![Video Label](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ342VRbRlgLDPviYYJgxfCVEHKmtuV8LIisA&usqp=CAU)](https://youtu.be/RnSdUeLEC1Y?t=0s) 
+<b>Short-version(5mins)</b>
+
+<a href="https://youtu.be/mVKYBDoyaUU?t=0s">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ342VRbRlgLDPviYYJgxfCVEHKmtuV8LIisA&usqp=CAU" width="98" />
+ </a>
+
+
+<b>Full-version(9mins)</b>
+
+<a href="https://youtu.be/RnSdUeLEC1Y?t=0s">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ342VRbRlgLDPviYYJgxfCVEHKmtuV8LIisA&usqp=CAU" width="98" />
+</a>
+
+# PAPER
 
 ![학사 졸업논문 발표_배포용-01](https://user-images.githubusercontent.com/41983244/101984112-b1d85980-3cc2-11eb-9a37-e0e77dc9219d.png)
 ![학사 졸업논문 발표_배포용-02](https://user-images.githubusercontent.com/41983244/101984118-b997fe00-3cc2-11eb-85e8-1db01e5fd8fd.png)
