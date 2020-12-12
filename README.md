@@ -1,12 +1,42 @@
 # Event Stacking(EST)
 
-Data Augmentation Techniques for Effective Learning of Event-Based Data
-
+Event Stacking : Data Augmentation Techniques for Effective Learning of Event-Based Data (S. Jang)
 
 (이벤트 기반 데이터의 효과적인 학습을 위한 데이터 증강 기법)
 
 
+
+# Presentation
+
+경희대학교 소프트웨어 융합학과 졸업논문 발표자료
+
+Presentation of Graduation thesis from Software Convergence, Kyung Hee University
+
+YouTube
+[![Video Label](http://img.youtube.com/vi/RnSdUeLEC1Y/0.jpg)](https://youtu.be/RnSdUeLEC1Y?t=0s) 
+
+Presentation
+![학사 졸업논문 발표_배포용-01](https://user-images.githubusercontent.com/41983244/101984112-b1d85980-3cc2-11eb-9a37-e0e77dc9219d.png)
+![학사 졸업논문 발표_배포용-02](https://user-images.githubusercontent.com/41983244/101984118-b997fe00-3cc2-11eb-85e8-1db01e5fd8fd.png)
+![학사 졸업논문 발표_배포용-03](https://user-images.githubusercontent.com/41983244/101984119-bb61c180-3cc2-11eb-9603-cc22bf214092.png)
+![학사 졸업논문 발표_배포용-04](https://user-images.githubusercontent.com/41983244/101984122-bbfa5800-3cc2-11eb-8b78-35abeab4c786.png)
+![학사 졸업논문 발표_배포용-05](https://user-images.githubusercontent.com/41983244/101984123-bdc41b80-3cc2-11eb-9b55-eca4c3bbcb49.png)
+![학사 졸업논문 발표_배포용-06](https://user-images.githubusercontent.com/41983244/101984125-be5cb200-3cc2-11eb-9166-e4935214547e.png)
+![학사 졸업논문 발표_배포용-07](https://user-images.githubusercontent.com/41983244/101984127-bef54880-3cc2-11eb-9b90-b653dd9bc312.png)
+![학사 졸업논문 발표_배포용-08](https://user-images.githubusercontent.com/41983244/101984128-bf8ddf00-3cc2-11eb-838c-c7cefdca418a.png)
+![학사 졸업논문 발표_배포용-09](https://user-images.githubusercontent.com/41983244/101984129-c0267580-3cc2-11eb-926f-5a11b4336292.png)
+![학사 졸업논문 발표_배포용-10](https://user-images.githubusercontent.com/41983244/101984130-c0bf0c00-3cc2-11eb-9047-0163ce013e19.png)
+![학사 졸업논문 발표_배포용-11](https://user-images.githubusercontent.com/41983244/101984132-c1f03900-3cc2-11eb-990a-9fa70dbbafec.png)
+![학사 졸업논문 발표_배포용-12](https://user-images.githubusercontent.com/41983244/101984133-c288cf80-3cc2-11eb-8d7d-d33da68473fe.png)
+![학사 졸업논문 발표_배포용-13](https://user-images.githubusercontent.com/41983244/101984134-c3216600-3cc2-11eb-8d14-d0376f145280.png)
+
+
+
 # PAPER
+
+이벤트 기반 데이터의 효과적인 학습을 위한 데이터 증강 기법
+
+Data Augmentation Techniques for Effective Learning of Event-Based Data
 
 <img src="https://user-images.githubusercontent.com/41983244/101983431-7dfb3500-3cbe-11eb-9ea4-5f42ea3790c0.png" width="570" />
 <img src="https://user-images.githubusercontent.com/41983244/101983438-82275280-3cbe-11eb-8dc1-5073458197aa.png" width="570" />
