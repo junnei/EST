@@ -8,5 +8,5 @@ Data Augmentation Techniques for Effective Learning of Event-Based Data
 
 # PAPER
 
-![학사 졸업논문_배포용-01](https://user-images.githubusercontent.com/41983244/101983431-7dfb3500-3cbe-11eb-9ea4-5f42ea3790c0.png){: width="50%" height="50%"}
+![학사 졸업논문_배포용-01](https://user-images.githubusercontent.com/41983244/101983431-7dfb3500-3cbe-11eb-9ea4-5f42ea3790c0.png){: width="570" height="780"}
 
