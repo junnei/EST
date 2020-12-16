@@ -25,7 +25,9 @@ Presentation of Graduation thesis from Software Convergence, Kyung Hee Universit
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ342VRbRlgLDPviYYJgxfCVEHKmtuV8LIisA&usqp=CAU" width="98" />
 </a>
 
-# PAPER
+하단에 발표자료와 논문이 개제되어있음.
+
+# PRESENTATION
 
 ![학사 졸업논문 발표_배포용-01](https://user-images.githubusercontent.com/41983244/101984112-b1d85980-3cc2-11eb-9a37-e0e77dc9219d.png)
 ![학사 졸업논문 발표_배포용-02](https://user-images.githubusercontent.com/41983244/101984118-b997fe00-3cc2-11eb-85e8-1db01e5fd8fd.png)
